@@ -1,0 +1,1 @@
+# 2022_Sejong_AI_Challenge
